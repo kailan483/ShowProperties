@@ -8,5 +8,6 @@ public class Main {
 	    System.out.println(System.getProperty("user.name"));
 	    System.out.println(System.getProperty("java.library.path"));
 	    System.out.println(System.getProperty("user.password"));
+		System.out.println(System.getProperty("user.password"));
     }
 }///:~
